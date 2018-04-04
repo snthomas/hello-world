@@ -1,5 +1,5 @@
 # hello-world
-test repository
+Test Repository.
 
 # Readme Instructions
 This is a case of me working through github basics. I understand the love for this type of product (although I still do not understand the love for markdown-I think its an us-them marker/status/fad.
